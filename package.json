@@ -1,0 +1,20 @@
+{
+  "name": "alura-node",
+  "version": "1.0.0",
+  "description": "API feita em Node e Express acompanhando curso da Alura.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Tiago Martins",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
